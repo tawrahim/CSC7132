@@ -1,4 +1,4 @@
-## CSC 7132: Operating System & Networking
+## CSC 7132: Operating System & Networking 
 This repo contains all my lecture notes as well as solutions to the home work propblems for this class.
 
 ### Course Description
